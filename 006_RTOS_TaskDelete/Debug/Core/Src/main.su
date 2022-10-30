@@ -1,0 +1,14 @@
+../Drivers/CMSIS/Include/core_cm4.h:2064:26:ITM_SendChar	16	static,ignoring_inline_asm
+../Core/Src/main.c:87:5:_write	32	static
+../Core/Src/main.c:97:6:freeRTOS_delay	24	static
+../Core/Src/main.c:112:5:main	16	static
+../Core/Src/main.c:205:6:SystemClock_Config	88	static
+../Core/Src/main.c:251:13:MX_I2C1_Init	8	static
+../Core/Src/main.c:285:13:MX_I2S3_Init	8	static
+../Core/Src/main.c:319:13:MX_SPI1_Init	8	static
+../Core/Src/main.c:357:13:MX_USB_OTG_FS_HCD_Init	8	static
+../Core/Src/main.c:388:13:MX_GPIO_Init	56	static
+../Core/Src/main.c:477:6:Task1_Handler	16	static
+../Core/Src/main.c:498:6:Task2_Handler	16	static
+../Core/Src/main.c:521:6:StartDefaultTask	16	static
+../Core/Src/main.c:536:6:Error_Handler	4	static,ignoring_inline_asm
